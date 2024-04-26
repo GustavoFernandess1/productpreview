@@ -4,7 +4,6 @@
     font-weight: bold;
     align-items: center;
     justify-content: center;
-    
 }
 
 .box{
@@ -31,5 +30,5 @@
 
 .addBtn{
     border-radius: 20px;
-    font-size: 200px
+    font-size: 20px
 }
