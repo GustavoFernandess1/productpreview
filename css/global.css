@@ -1,0 +1,35 @@
+.product{
+    font-size: 20px;
+    line-height: 2%;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.box{
+    border-radius: 30px;
+    align-items: center;
+    background-color: white;
+}
+
+.productName{
+    font-family: firstFont;
+    font-size: 30px;
+
+}
+
+.productDesc{
+    font-family: 'Montserrat';
+    font-size: 20px;
+}
+
+.productPrice{
+    color: hsl(212, 21%, 14%);
+    font-family: Fraunces;
+}
+
+.addBtn{
+    border-radius: 20px;
+    font-size: 200px
+}
